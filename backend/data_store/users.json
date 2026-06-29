@@ -1,0 +1,17 @@
+{
+    "ineshpurie@gmail.com": {
+        "password": "scrypt:32768:8:1$7LnwnDHPcDfOTogc$0adee4d4590a76e36dc4195022b3deac7c399efe046b03ed80e5edde139c1146b4d8c2b9ae34b60d618021deeb6cdf4cd9845bef31852dbe4412984165c683f9",
+        "created_at": "2026-06-29T17:10:15.881331+00:00"
+    },
+    "testuser@gmail.com": {
+        "password": "scrypt:32768:8:1$TZUKsZ2t5H0Ftf2J$24167baaa75e5456b99af872641a69a75ca74a356b82a17c45bc4a9699996b4e50978f1dabf020356d302483e1407240f4d537c89f8ebe51e768b7d3320dfbcc",
+        "totp_secret": "ID2BPJQCL5DWHD2RRPRQLXV7JIBDHXRN",
+        "created_at": "2026-06-29T20:59:26.862535+00:00"
+    },
+    "testuser2@gmail.com": {
+        "password": "scrypt:32768:8:1$kzDTindPbtSDtQiF$c569e406c272eb2039eeaf0b05c3d0b01af43bc2cd7d890da4cc5ae4d321b62219a8b39dea62c17ad30d6801e9e1c02704e34691d52998a2b854a9dcae867413",
+        "totp_secret": "HQLSZ5XRE6BXOTPCHDPLK627NVNTEY6H",
+        "created_at": "2026-06-29T21:05:44.791310+00:00",
+        "updated_at": "2026-06-29T21:07:45.014893+00:00"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "ineshpurie@gmail.com": [
+        {
+            "id": "ef9e831f-45a0-4ffa-8a33-92ac5d8698e0",
+            "amount": 12000.0,
+            "type": "income",
+            "category": "general",
+            "note": "",
+            "timestamp": "2026-06-29 17:11",
+            "created_at": "2026-06-29 17:11",
+            "updated_at": "2026-06-29 17:11"
+        },
+        {
+            "id": "d6529dae-442d-4860-98c8-2b1c268559b3",
+            "amount": 2000.0,
+            "type": "expense",
+            "category": "transport",
+            "note": "",
+            "timestamp": "2026-06-29 17:13",
+            "created_at": "2026-06-29 17:13",
+            "updated_at": "2026-06-29 17:13"
+        },
+        {
+            "id": "cc8d5664-882b-4a59-9d4f-19d1f34885f2",
+            "amount": 1500.0,
+            "type": "expense",
+            "category": "health",
+            "note": "",
+            "timestamp": "2026-06-29 17:13",
+            "created_at": "2026-06-29 17:13",
+            "updated_at": "2026-06-29 17:13"
+        },
+        {
+            "id": "343b411a-7d7e-4d6e-b2a4-af463f9fb4c5",
+            "amount": 3500.0,
+            "type": "expense",
+            "category": "shopping",
+            "note": "",
+            "timestamp": "2026-06-29 17:14",
+            "created_at": "2026-06-29 17:14",
+            "updated_at": "2026-06-29 17:14"
+        },
+        {
+            "id": "ec4e4b8d-9b42-4e28-8786-f3238c138a3b",
+            "amount": 2400.0,
+            "type": "income",
+            "category": "general",
+            "note": "",
+            "timestamp": "2026-06-29 17:14",
+            "created_at": "2026-06-29 17:14",
+            "updated_at": "2026-06-29 17:15"
+        },
+        {
+            "id": "0c7b93bc-ec91-4062-80ea-23f0bf2c73d3",
+            "amount": 4000.0,
+            "type": "expense",
+            "category": "utilities",
+            "note": "",
+            "timestamp": "2026-06-29 17:31",
+            "created_at": "2026-06-29 17:31",
+            "updated_at": "2026-06-29 17:31"
+        },
+        {
+            "id": "ecec3b5a-f0ab-444f-bf21-9dc3888080b3",
+            "amount": 5000.0,
+            "type": "expense",
+            "category": "transport",
+            "note": "",
+            "timestamp": "2026-06-29 17:32",
+            "created_at": "2026-06-29 17:32",
+            "updated_at": "2026-06-29 17:32"
+        }
+    ]
+}
